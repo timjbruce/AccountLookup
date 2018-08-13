@@ -40,9 +40,8 @@ nvm --version
 
 ## 3) Download the source and put it in ~ on the Dev instance
 ```
-wget https://s3.us-east-2.amazonaws.com/awstb-website/AccountLookup.zip
+wget https://github.com/timjbruce/AccountLookup/blob/master/AccountLookup.zip
 ```
-
 ## 4) Create an IAM user role for working with the instances and services
   a) EC2 service
      - AWSCodeCommitFullAccess policy
